@@ -299,7 +299,7 @@ SUMMARY_REQUEST_PROMPT = (
     "relates to those preferences. If products were compared, explain the "
     "relevant differences based on the user's stated preferences rather "
     "than giving a general health verdict. "
- 
+ ##
     "Keep it concise, easy to read, plain text, and suitable for Telegram. "
     "Use a few relevant emojis. Do not use markdown. Do not invent missing "
     "information or calculations."
